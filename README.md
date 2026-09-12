@@ -1,0 +1,2 @@
+# ProyectoIonicAngularOmarMorales
+Aplicación Ionic + Angular 
